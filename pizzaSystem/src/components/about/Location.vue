@@ -19,7 +19,7 @@ export default {
     
   },
   mounted(){
-    function initMap(){
+    /*function initMap(){
       createMap();//创建地图
       setMapEvent();//设置地图事件
       addMapControl();//向地图添加控件
@@ -77,7 +77,7 @@ export default {
     }
     
     var map;
-    initMap();
+    initMap();*/
   }
   
 }
